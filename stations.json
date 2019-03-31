@@ -1,0 +1,1786 @@
+[
+	{
+		"stn" : 170220,
+		"name" : "ZONGULDAK",
+		"country" : "TURKEY",
+		"latitude" : 41.45,
+		"longitude" : 31.8,
+		"elevation" : 137
+	},
+	{
+		"stn" : 170240,
+		"name" : "INEBOLU",
+		"country" : "TURKEY",
+		"latitude" : 41.983,
+		"longitude" : 33.783,
+		"elevation" : 64
+	},
+	{
+		"stn" : 170260,
+		"name" : "SINOP",
+		"country" : "TURKEY",
+		"latitude" : 42.033,
+		"longitude" : 35.167,
+		"elevation" : 32
+	},
+	{
+		"stn" : 170300,
+		"name" : "SAMSUN",
+		"country" : "TURKEY",
+		"latitude" : 41.283,
+		"longitude" : 36.3,
+		"elevation" : 4
+	},
+	{
+		"stn" : 170310,
+		"name" : "CARSAMBA/SAMSUN",
+		"country" : "TURKEY",
+		"latitude" : 41.25,
+		"longitude" : 36.55,
+		"elevation" : 7
+	},
+	{
+		"stn" : 170340,
+		"name" : "GIRESUN",
+		"country" : "TURKEY",
+		"latitude" : 40.917,
+		"longitude" : 38.383,
+		"elevation" : 37
+	},
+	{
+		"stn" : 170380,
+		"name" : "TRABZON",
+		"country" : "TURKEY",
+		"latitude" : 41,
+		"longitude" : 39.717,
+		"elevation" : 34
+	},
+	{
+		"stn" : 170420,
+		"name" : "HOPA",
+		"country" : "TURKEY",
+		"latitude" : 41.4,
+		"longitude" : 41.433,
+		"elevation" : 33
+	},
+	{
+		"stn" : 170500,
+		"name" : "EDIRNE",
+		"country" : "TURKEY",
+		"latitude" : 41.667,
+		"longitude" : 26.567,
+		"elevation" : 51
+	},
+	{
+		"stn" : 170560,
+		"name" : "TEKIRDAG",
+		"country" : "TURKEY",
+		"latitude" : 40.983,
+		"longitude" : 27.55,
+		"elevation" : 3
+	},
+	{
+		"stn" : 170575,
+		"name" : "CORLU",
+		"country" : "TURKEY",
+		"latitude" : 41.133,
+		"longitude" : 27.917,
+		"elevation" : 179
+	},
+	{
+		"stn" : 170600,
+		"name" : "ISTANBUL/ATATURK",
+		"country" : "TURKEY",
+		"latitude" : 40.967,
+		"longitude" : 28.817,
+		"elevation" : 37
+	},
+	{
+		"stn" : 170660,
+		"name" : "DATSAV3 VIRT STATION (TURKEY)",
+		"country" : "TURKEY",
+		"latitude" : 37,
+		"longitude" : 35.433,
+		"elevation" : 0
+	},
+	{
+		"stn" : 170670,
+		"name" : "GOLCUK/DUMLUPINAR",
+		"country" : "TURKEY",
+		"latitude" : 40.667,
+		"longitude" : 29.833,
+		"elevation" : 18
+	},
+	{
+		"stn" : 170671,
+		"name" : "KAPADOKYA",
+		"country" : "TURKEY",
+		"latitude" : 38.767,
+		"longitude" : 34.533,
+		"elevation" : 969
+	},
+	{
+		"stn" : 170672,
+		"name" : "YENISEHIR",
+		"country" : "TURKEY",
+		"latitude" : 40.25,
+		"longitude" : 29.55,
+		"elevation" : 239
+	},
+	{
+		"stn" : 170673,
+		"name" : "CARSAMBA",
+		"country" : "TURKEY",
+		"latitude" : 41.25,
+		"longitude" : 36.567,
+		"elevation" : 6
+	},
+	{
+		"stn" : 170674,
+		"name" : "SABIHA GOKCEN",
+		"country" : "TURKEY",
+		"latitude" : 40.9,
+		"longitude" : 29.3,
+		"elevation" : 98
+	},
+	{
+		"stn" : 170700,
+		"name" : "BOLU",
+		"country" : "TURKEY",
+		"latitude" : 40.733,
+		"longitude" : 31.6,
+		"elevation" : 743
+	},
+	{
+		"stn" : 170820,
+		"name" : "MERZIFON",
+		"country" : "TURKEY",
+		"latitude" : 40.85,
+		"longitude" : 35.583,
+		"elevation" : 535
+	},
+	{
+		"stn" : 170840,
+		"name" : "CORUM",
+		"country" : "TURKEY",
+		"latitude" : 40.55,
+		"longitude" : 34.95,
+		"elevation" : 776
+	},
+	{
+		"stn" : 170860,
+		"name" : "TOKAT",
+		"country" : "TURKEY",
+		"latitude" : 40.3,
+		"longitude" : 36.567,
+		"elevation" : 608
+	},
+	{
+		"stn" : 170880,
+		"name" : "GUMUSHANE",
+		"country" : "TURKEY",
+		"latitude" : 40.467,
+		"longitude" : 39.467,
+		"elevation" : 1219
+	},
+	{
+		"stn" : 170900,
+		"name" : "SIVAS",
+		"country" : "TURKEY",
+		"latitude" : 39.75,
+		"longitude" : 37.017,
+		"elevation" : 1285
+	},
+	{
+		"stn" : 170920,
+		"name" : "ERZINCAN",
+		"country" : "TURKEY",
+		"latitude" : 39.7,
+		"longitude" : 39.517,
+		"elevation" : 1154
+	},
+	{
+		"stn" : 170960,
+		"name" : "ERZURUM",
+		"country" : "TURKEY",
+		"latitude" : 39.95,
+		"longitude" : 41.167,
+		"elevation" : 1758
+	},
+	{
+		"stn" : 170980,
+		"name" : "KARS",
+		"country" : "TURKEY",
+		"latitude" : 40.55,
+		"longitude" : 43.083,
+		"elevation" : 1795
+	},
+	{
+		"stn" : 171100,
+		"name" : "GOKCEADA",
+		"country" : "TURKEY",
+		"latitude" : 40.183,
+		"longitude" : 25.9,
+		"elevation" : 72
+	},
+	{
+		"stn" : 171120,
+		"name" : "CANAKKALE",
+		"country" : "TURKEY",
+		"latitude" : 40.133,
+		"longitude" : 26.4,
+		"elevation" : 6
+	},
+	{
+		"stn" : 171150,
+		"name" : "BANDIRMA",
+		"country" : "TURKEY",
+		"latitude" : 40.317,
+		"longitude" : 27.967,
+		"elevation" : 42
+	},
+	{
+		"stn" : 171160,
+		"name" : "BURSA",
+		"country" : "TURKEY",
+		"latitude" : 40.183,
+		"longitude" : 29.067,
+		"elevation" : 100
+	},
+	{
+		"stn" : 171200,
+		"name" : "BILECIK",
+		"country" : "TURKEY",
+		"latitude" : 40.15,
+		"longitude" : 29.967,
+		"elevation" : 539
+	},
+	{
+		"stn" : 171240,
+		"name" : "ESKISEHIR",
+		"country" : "TURKEY",
+		"latitude" : 39.783,
+		"longitude" : 30.567,
+		"elevation" : 786
+	},
+	{
+		"stn" : 171270,
+		"name" : "AKINCI",
+		"country" : "TURKEY",
+		"latitude" : 40.067,
+		"longitude" : 32.567,
+		"elevation" : 840
+	},
+	{
+		"stn" : 171280,
+		"name" : "ESENBOGA",
+		"country" : "TURKEY",
+		"latitude" : 40.117,
+		"longitude" : 33,
+		"elevation" : 949
+	},
+	{
+		"stn" : 171290,
+		"name" : "ETIMESGUT",
+		"country" : "TURKEY",
+		"latitude" : 39.95,
+		"longitude" : 32.683,
+		"elevation" : 806
+	},
+	{
+		"stn" : 171295,
+		"name" : "GUVERCINLIK",
+		"country" : "TURKEY",
+		"latitude" : 39.933,
+		"longitude" : 32.732,
+		"elevation" : 842
+	},
+	{
+		"stn" : 171350,
+		"name" : "KIRIKKALE",
+		"country" : "TURKEY",
+		"latitude" : 39.85,
+		"longitude" : 33.517,
+		"elevation" : 748
+	},
+	{
+		"stn" : 171400,
+		"name" : "YOZGAT",
+		"country" : "TURKEY",
+		"latitude" : 39.817,
+		"longitude" : 34.8,
+		"elevation" : 1298
+	},
+	{
+		"stn" : 171500,
+		"name" : "BALIKESIR",
+		"country" : "TURKEY",
+		"latitude" : 39.617,
+		"longitude" : 27.917,
+		"elevation" : 102
+	},
+	{
+		"stn" : 171550,
+		"name" : "KUTAHYA",
+		"country" : "TURKEY",
+		"latitude" : 39.417,
+		"longitude" : 29.967,
+		"elevation" : 969
+	},
+	{
+		"stn" : 171600,
+		"name" : "KIRSEHIR",
+		"country" : "TURKEY",
+		"latitude" : 39.15,
+		"longitude" : 34.167,
+		"elevation" : 1007
+	},
+	{
+		"stn" : 171700,
+		"name" : "VAN",
+		"country" : "TURKEY",
+		"latitude" : 38.45,
+		"longitude" : 43.317,
+		"elevation" : 1662
+	},
+	{
+		"stn" : 171750,
+		"name" : "AYVALIK",
+		"country" : "TURKEY",
+		"latitude" : 39.3,
+		"longitude" : 26.7,
+		"elevation" : 4
+	},
+	{
+		"stn" : 171800,
+		"name" : "DIKILI",
+		"country" : "TURKEY",
+		"latitude" : 39.067,
+		"longitude" : 26.883,
+		"elevation" : 3
+	},
+	{
+		"stn" : 171840,
+		"name" : "AKHISAR",
+		"country" : "TURKEY",
+		"latitude" : 38.917,
+		"longitude" : 27.85,
+		"elevation" : 93
+	},
+	{
+		"stn" : 171880,
+		"name" : "USAK",
+		"country" : "TURKEY",
+		"latitude" : 38.683,
+		"longitude" : 29.4,
+		"elevation" : 919
+	},
+	{
+		"stn" : 171890,
+		"name" : "AFYONKARAHISAR",
+		"country" : "TURKEY",
+		"latitude" : 38.733,
+		"longitude" : 30.6,
+		"elevation" : 1012
+	},
+	{
+		"stn" : 171900,
+		"name" : "AFYON",
+		"country" : "TURKEY",
+		"latitude" : 38.75,
+		"longitude" : 30.533,
+		"elevation" : 1034
+	},
+	{
+		"stn" : 171905,
+		"name" : "AFYON (MIL)",
+		"country" : "TURKEY",
+		"latitude" : 38.733,
+		"longitude" : 30.6,
+		"elevation" : 1010
+	},
+	{
+		"stn" : 171950,
+		"name" : "KAYSERI/ERKILET",
+		"country" : "TURKEY",
+		"latitude" : 38.817,
+		"longitude" : 35.433,
+		"elevation" : 1054
+	},
+	{
+		"stn" : 171990,
+		"name" : "MALATYA/BOLGE",
+		"country" : "TURKEY",
+		"latitude" : 38.35,
+		"longitude" : 38.317,
+		"elevation" : 948
+	},
+	{
+		"stn" : 172000,
+		"name" : "MALATYA/ERHAC",
+		"country" : "TURKEY",
+		"latitude" : 38.433,
+		"longitude" : 38.083,
+		"elevation" : 849
+	},
+	{
+		"stn" : 172005,
+		"name" : "TOPEL",
+		"country" : "TURKEY",
+		"latitude" : 40.733,
+		"longitude" : 30.083,
+		"elevation" : 57
+	},
+	{
+		"stn" : 172020,
+		"name" : "ELAZIG",
+		"country" : "TURKEY",
+		"latitude" : 38.6,
+		"longitude" : 39.283,
+		"elevation" : 881
+	},
+	{
+		"stn" : 172050,
+		"name" : "TATVAN",
+		"country" : "TURKEY",
+		"latitude" : 38.483,
+		"longitude" : 42.3,
+		"elevation" : 1665
+	},
+	{
+		"stn" : 172100,
+		"name" : "SIIRT",
+		"country" : "TURKEY",
+		"latitude" : 37.933,
+		"longitude" : 41.95,
+		"elevation" : 896
+	},
+	{
+		"stn" : 172180,
+		"name" : "IZMIR/CIGLI",
+		"country" : "TURKEY",
+		"latitude" : 38.517,
+		"longitude" : 27.017,
+		"elevation" : 5
+	},
+	{
+		"stn" : 172190,
+		"name" : "IZMIR/A. MENDERES",
+		"country" : "TURKEY",
+		"latitude" : 38.267,
+		"longitude" : 27.15,
+		"elevation" : 120
+	},
+	{
+		"stn" : 172340,
+		"name" : "AYDIN",
+		"country" : "TURKEY",
+		"latitude" : 37.85,
+		"longitude" : 27.85,
+		"elevation" : 56
+	},
+	{
+		"stn" : 172370,
+		"name" : "DENIZLI",
+		"country" : "TURKEY",
+		"latitude" : 37.783,
+		"longitude" : 29.083,
+		"elevation" : 425
+	},
+	{
+		"stn" : 172400,
+		"name" : "ISPARTA",
+		"country" : "TURKEY",
+		"latitude" : 37.75,
+		"longitude" : 30.55,
+		"elevation" : 997
+	},
+	{
+		"stn" : 172410,
+		"name" : "SULEYMAN DEMIREL",
+		"country" : "TURKEY",
+		"latitude" : 37.85,
+		"longitude" : 30.367,
+		"elevation" : 886
+	},
+	{
+		"stn" : 172440,
+		"name" : "KONYA",
+		"country" : "TURKEY",
+		"latitude" : 37.967,
+		"longitude" : 32.549,
+		"elevation" : 1031
+	},
+	{
+		"stn" : 172480,
+		"name" : "EREGLI/KONYA",
+		"country" : "TURKEY",
+		"latitude" : 37.5,
+		"longitude" : 34.05,
+		"elevation" : 1044
+	},
+	{
+		"stn" : 172500,
+		"name" : "NIGDE",
+		"country" : "TURKEY",
+		"latitude" : 37.967,
+		"longitude" : 34.683,
+		"elevation" : 1210
+	},
+	{
+		"stn" : 172600,
+		"name" : "GAZIANTEP",
+		"country" : "TURKEY",
+		"latitude" : 37.083,
+		"longitude" : 37.367,
+		"elevation" : 701
+	},
+	{
+		"stn" : 172700,
+		"name" : "SANLIURFA",
+		"country" : "TURKEY",
+		"latitude" : 37.133,
+		"longitude" : 38.767,
+		"elevation" : 549
+	},
+	{
+		"stn" : 172720,
+		"name" : "SANLIURFA/MEYDAN",
+		"country" : "TURKEY",
+		"latitude" : 37.1,
+		"longitude" : 38.85,
+		"elevation" : 452
+	},
+	{
+		"stn" : 172734,
+		"name" : "MILAS BODRUM",
+		"country" : "TURKEY",
+		"latitude" : 37.25,
+		"longitude" : 27.667,
+		"elevation" : 7
+	},
+	{
+		"stn" : 172800,
+		"name" : "DIYARBAKIR",
+		"country" : "TURKEY",
+		"latitude" : 37.883,
+		"longitude" : 40.183,
+		"elevation" : 677
+	},
+	{
+		"stn" : 172900,
+		"name" : "BODRUM",
+		"country" : "TURKEY",
+		"latitude" : 37.033,
+		"longitude" : 27.433,
+		"elevation" : 26
+	},
+	{
+		"stn" : 172920,
+		"name" : "MUGLA",
+		"country" : "TURKEY",
+		"latitude" : 37.217,
+		"longitude" : 28.367,
+		"elevation" : 646
+	},
+	{
+		"stn" : 172950,
+		"name" : "DALAMAN",
+		"country" : "TURKEY",
+		"latitude" : 36.7,
+		"longitude" : 28.783,
+		"elevation" : 9
+	},
+	{
+		"stn" : 173000,
+		"name" : "ANTALYA",
+		"country" : "TURKEY",
+		"latitude" : 36.867,
+		"longitude" : 30.733,
+		"elevation" : 54
+	},
+	{
+		"stn" : 173100,
+		"name" : "ALANYA",
+		"country" : "TURKEY",
+		"latitude" : 36.55,
+		"longitude" : 32,
+		"elevation" : 6
+	},
+	{
+		"stn" : 173200,
+		"name" : "ANAMUR",
+		"country" : "TURKEY",
+		"latitude" : 36.083,
+		"longitude" : 32.833,
+		"elevation" : 4
+	},
+	{
+		"stn" : 173300,
+		"name" : "SILIFKE",
+		"country" : "TURKEY",
+		"latitude" : 36.383,
+		"longitude" : 33.933,
+		"elevation" : 15
+	},
+	{
+		"stn" : 173500,
+		"name" : "ADANA/INCIRLIK AFB",
+		"country" : "TURKEY",
+		"latitude" : 37,
+		"longitude" : 35.417,
+		"elevation" : 75.9
+	},
+	{
+		"stn" : 173520,
+		"name" : "ADANA",
+		"country" : "TURKEY",
+		"latitude" : 36.983,
+		"longitude" : 35.3,
+		"elevation" : 20
+	},
+	{
+		"stn" : 173700,
+		"name" : "ISKENDERUN",
+		"country" : "TURKEY",
+		"latitude" : 36.583,
+		"longitude" : 36.167,
+		"elevation" : 4
+	},
+	{
+		"stn" : 173750,
+		"name" : "FINIKE",
+		"country" : "TURKEY",
+		"latitude" : 36.3,
+		"longitude" : 30.15,
+		"elevation" : 2
+	},
+	{
+		"stn" : 400010,
+		"name" : "KAMISHLI",
+		"country" : "SYRIA",
+		"latitude" : 37.05,
+		"longitude" : 41.217,
+		"elevation" : 455
+	},
+	{
+		"stn" : 400070,
+		"name" : "ALEPPO INT. AEROPOR",
+		"country" : "SYRIA",
+		"latitude" : 36.183,
+		"longitude" : 37.2,
+		"elevation" : 384
+	},
+	{
+		"stn" : 400220,
+		"name" : "LATTAKIA",
+		"country" : "SYRIA",
+		"latitude" : 35.533,
+		"longitude" : 35.767,
+		"elevation" : 7
+	},
+	{
+		"stn" : 400250,
+		"name" : "BASEL ASSAD INT. A",
+		"country" : "SYRIA",
+		"latitude" : 35.4,
+		"longitude" : 35.933,
+		"elevation" : 50
+	},
+	{
+		"stn" : 400300,
+		"name" : "HAMA",
+		"country" : "SYRIA",
+		"latitude" : 35.117,
+		"longitude" : 36.75,
+		"elevation" : 303
+	},
+	{
+		"stn" : 400450,
+		"name" : "DEIR EZZOR",
+		"country" : "SYRIA",
+		"latitude" : 35.317,
+		"longitude" : 40.15,
+		"elevation" : 212
+	},
+	{
+		"stn" : 400660,
+		"name" : "SAFITA",
+		"country" : "SYRIA",
+		"latitude" : 34.817,
+		"longitude" : 36.133,
+		"elevation" : 359
+	},
+	{
+		"stn" : 400800,
+		"name" : "DAMASCUS INT. AIRPO",
+		"country" : "SYRIA",
+		"latitude" : 33.417,
+		"longitude" : 36.517,
+		"elevation" : 609
+	},
+	{
+		"stn" : 400830,
+		"name" : "NABK",
+		"country" : "SYRIA",
+		"latitude" : 34.033,
+		"longitude" : 36.717,
+		"elevation" : 1333
+	},
+	{
+		"stn" : 400950,
+		"name" : "DARAA",
+		"country" : "SYRIA",
+		"latitude" : 32.6,
+		"longitude" : 36.1,
+		"elevation" : 543
+	},
+	{
+		"stn" : 401000,
+		"name" : "BEYROUTH (AEROPORT)",
+		"country" : "LEBANON",
+		"latitude" : 33.817,
+		"longitude" : 35.483,
+		"elevation" : 19
+	},
+	{
+		"stn" : 401010,
+		"name" : "HOUCHE-AL-OUMARA",
+		"country" : "LEBANON",
+		"latitude" : 33.817,
+		"longitude" : 35.85,
+		"elevation" : 920
+	},
+	{
+		"stn" : 401030,
+		"name" : "TRIPOLI",
+		"country" : "LEBANON",
+		"latitude" : 34.45,
+		"longitude" : 35.8,
+		"elevation" : 5
+	},
+	{
+		"stn" : 401540,
+		"name" : "HAIFA/U. MICHAELI",
+		"country" : "ISRAEL",
+		"latitude" : 32.817,
+		"longitude" : 35,
+		"elevation" : 5
+	},
+	{
+		"stn" : 401550,
+		"name" : "HAIFA",
+		"country" : "ISRAEL",
+		"latitude" : 32.8,
+		"longitude" : 35.033,
+		"elevation" : 9
+	},
+	{
+		"stn" : 401650,
+		"name" : "RAMAT-DAVID",
+		"country" : "ISRAEL",
+		"latitude" : 32.667,
+		"longitude" : 35.183,
+		"elevation" : 49
+	},
+	{
+		"stn" : 401760,
+		"name" : "SDE-DOV (TEL-AVIV)",
+		"country" : "ISRAEL",
+		"latitude" : 32.1,
+		"longitude" : 34.783,
+		"elevation" : 4
+	},
+	{
+		"stn" : 401761,
+		"name" : "MAHANAIM I BEN YAAK",
+		"country" : "ISRAEL",
+		"latitude" : 32.983,
+		"longitude" : 35.567,
+		"elevation" : 288
+	},
+	{
+		"stn" : 401762,
+		"name" : "SDE DOV",
+		"country" : "ISRAEL",
+		"latitude" : 32.116,
+		"longitude" : 34.783,
+		"elevation" : 13
+	},
+	{
+		"stn" : 401770,
+		"name" : "DATSAV3 VIRT STATION (ISRAEL)",
+		"country" : "ISRAEL",
+		"latitude" : 32,
+		"longitude" : 34.817,
+		"elevation" : 0
+	},
+	{
+		"stn" : 401800,
+		"name" : "BEN-GURION INT. AIR",
+		"country" : "ISRAEL",
+		"latitude" : 32,
+		"longitude" : 34.9,
+		"elevation" : 49
+	},
+	{
+		"stn" : 401910,
+		"name" : "BEER-SHEVA",
+		"country" : "ISRAEL",
+		"latitude" : 31.233,
+		"longitude" : 34.783,
+		"elevation" : 280
+	},
+	{
+		"stn" : 401980,
+		"name" : "OVDA",
+		"country" : "ISRAEL",
+		"latitude" : 30,
+		"longitude" : 34.833,
+		"elevation" : 445
+	},
+	{
+		"stn" : 401990,
+		"name" : "EILAT",
+		"country" : "ISRAEL",
+		"latitude" : 29.55,
+		"longitude" : 34.95,
+		"elevation" : 12
+	},
+	{
+		"stn" : 402500,
+		"name" : "H-4 IRWAISHED",
+		"country" : "JORDAN",
+		"latitude" : 32.5,
+		"longitude" : 38.2,
+		"elevation" : 683
+	},
+	{
+		"stn" : 402550,
+		"name" : "IRBED",
+		"country" : "JORDAN",
+		"latitude" : 32.549,
+		"longitude" : 35.85,
+		"elevation" : 616
+	},
+	{
+		"stn" : 402600,
+		"name" : "H-5 SAFAWI",
+		"country" : "JORDAN",
+		"latitude" : 32.2,
+		"longitude" : 37.133,
+		"elevation" : 674
+	},
+	{
+		"stn" : 402650,
+		"name" : "MAFRAQ",
+		"country" : "JORDAN",
+		"latitude" : 32.366,
+		"longitude" : 36.25,
+		"elevation" : 683
+	},
+	{
+		"stn" : 402700,
+		"name" : "AMMAN AIRPORT",
+		"country" : "JORDAN",
+		"latitude" : 31.983,
+		"longitude" : 35.983,
+		"elevation" : 779
+	},
+	{
+		"stn" : 402720,
+		"name" : "QUEEN ALIA AIRPORT",
+		"country" : "JORDAN",
+		"latitude" : 31.717,
+		"longitude" : 35.983,
+		"elevation" : 722
+	},
+	{
+		"stn" : 403100,
+		"name" : "MAAN",
+		"country" : "JORDAN",
+		"latitude" : 30.167,
+		"longitude" : 35.783,
+		"elevation" : 1069
+	},
+	{
+		"stn" : 403400,
+		"name" : "AQABA AIRPORT",
+		"country" : "JORDAN",
+		"latitude" : 29.55,
+		"longitude" : 35,
+		"elevation" : 51
+	},
+	{
+		"stn" : 601010,
+		"name" : "TANGER (AERODROME)",
+		"country" : "MOROCCO",
+		"latitude" : 35.733,
+		"longitude" : -5.9,
+		"elevation" : 21
+	},
+	{
+		"stn" : 601050,
+		"name" : "LARACHE",
+		"country" : "MOROCCO",
+		"latitude" : 35.183,
+		"longitude" : -6.133,
+		"elevation" : 49
+	},
+	{
+		"stn" : 601070,
+		"name" : "AL HOCEIMA",
+		"country" : "MOROCCO",
+		"latitude" : 35.183,
+		"longitude" : -3.85,
+		"elevation" : 14
+	},
+	{
+		"stn" : 601150,
+		"name" : "OUJDA",
+		"country" : "MOROCCO",
+		"latitude" : 34.783,
+		"longitude" : -1.933,
+		"elevation" : 470
+	},
+	{
+		"stn" : 601270,
+		"name" : "TAZA",
+		"country" : "MOROCCO",
+		"latitude" : 34.217,
+		"longitude" : -4,
+		"elevation" : 510
+	},
+	{
+		"stn" : 601350,
+		"name" : "RABAT-SALE",
+		"country" : "MOROCCO",
+		"latitude" : 34.05,
+		"longitude" : -6.767,
+		"elevation" : 79
+	},
+	{
+		"stn" : 601360,
+		"name" : "SIDI SLIMANE",
+		"country" : "MOROCCO",
+		"latitude" : 34.233,
+		"longitude" : -6.05,
+		"elevation" : 56
+	},
+	{
+		"stn" : 601410,
+		"name" : "FES-SAIS",
+		"country" : "MOROCCO",
+		"latitude" : 33.933,
+		"longitude" : -4.983,
+		"elevation" : 579
+	},
+	{
+		"stn" : 601500,
+		"name" : "MEKNES",
+		"country" : "MOROCCO",
+		"latitude" : 33.883,
+		"longitude" : -5.533,
+		"elevation" : 560
+	},
+	{
+		"stn" : 601550,
+		"name" : "CASABLANCA",
+		"country" : "MOROCCO",
+		"latitude" : 33.567,
+		"longitude" : -7.667,
+		"elevation" : 57
+	},
+	{
+		"stn" : 601560,
+		"name" : "NOUASSEUR",
+		"country" : "MOROCCO",
+		"latitude" : 33.367,
+		"longitude" : -7.583,
+		"elevation" : 206
+	},
+	{
+		"stn" : 601600,
+		"name" : "IFRANE",
+		"country" : "MOROCCO",
+		"latitude" : 33.5,
+		"longitude" : -5.167,
+		"elevation" : 1665
+	},
+	{
+		"stn" : 601850,
+		"name" : "SAFI",
+		"country" : "MOROCCO",
+		"latitude" : 32.283,
+		"longitude" : -9.233,
+		"elevation" : 45
+	},
+	{
+		"stn" : 601900,
+		"name" : "KASBA-TADLA",
+		"country" : "MOROCCO",
+		"latitude" : 32.533,
+		"longitude" : -6.283,
+		"elevation" : 518
+	},
+	{
+		"stn" : 601910,
+		"name" : "BENI-MELLAL",
+		"country" : "MOROCCO",
+		"latitude" : 32.366,
+		"longitude" : -6.4,
+		"elevation" : 472
+	},
+	{
+		"stn" : 602001,
+		"name" : "ARWI",
+		"country" : "MOROCCO",
+		"latitude" : 34.983,
+		"longitude" : -3.017,
+		"elevation" : 179
+	},
+	{
+		"stn" : 602100,
+		"name" : "ERRACHIDIA",
+		"country" : "MOROCCO",
+		"latitude" : 31.933,
+		"longitude" : -4.4,
+		"elevation" : 1042
+	},
+	{
+		"stn" : 602200,
+		"name" : "ESSAOUIRA",
+		"country" : "MOROCCO",
+		"latitude" : 31.517,
+		"longitude" : -9.783,
+		"elevation" : 8
+	},
+	{
+		"stn" : 602300,
+		"name" : "MARRAKECH",
+		"country" : "MOROCCO",
+		"latitude" : 31.617,
+		"longitude" : -8.032,
+		"elevation" : 466
+	},
+	{
+		"stn" : 602500,
+		"name" : "AGADIR",
+		"country" : "MOROCCO",
+		"latitude" : 30.383,
+		"longitude" : -9.567,
+		"elevation" : 23
+	},
+	{
+		"stn" : 602520,
+		"name" : "AGADIR AL MASSIRA",
+		"country" : "MOROCCO",
+		"latitude" : 30.317,
+		"longitude" : -9.4,
+		"elevation" : 23
+	},
+	{
+		"stn" : 602650,
+		"name" : "OUARZAZATE",
+		"country" : "MOROCCO",
+		"latitude" : 30.933,
+		"longitude" : -6.9,
+		"elevation" : 1140
+	},
+	{
+		"stn" : 603180,
+		"name" : "TETUAN/SANIA RAMEL",
+		"country" : "MOROCCO",
+		"latitude" : 35.583,
+		"longitude" : -5.333,
+		"elevation" : 10
+	},
+	{
+		"stn" : 603400,
+		"name" : "NADOR-AROUI",
+		"country" : "MOROCCO",
+		"latitude" : 34.983,
+		"longitude" : -3.017,
+		"elevation" : 177
+	},
+	{
+		"stn" : 603510,
+		"name" : "JIJEL-ACHOUAT",
+		"country" : "ALGERIA",
+		"latitude" : 36.8,
+		"longitude" : 5.883,
+		"elevation" : 10
+	},
+	{
+		"stn" : 603550,
+		"name" : "SKIKDA",
+		"country" : "ALGERIA",
+		"latitude" : 36.883,
+		"longitude" : 6.9,
+		"elevation" : 3
+	},
+	{
+		"stn" : 603600,
+		"name" : "ANNABA",
+		"country" : "ALGERIA",
+		"latitude" : 36.833,
+		"longitude" : 7.817,
+		"elevation" : 4
+	},
+	{
+		"stn" : 603900,
+		"name" : "DAR-EL-BEIDA",
+		"country" : "ALGERIA",
+		"latitude" : 36.683,
+		"longitude" : 3.217,
+		"elevation" : 29
+	},
+	{
+		"stn" : 604020,
+		"name" : "BEJAIA-AEROPORT",
+		"country" : "ALGERIA",
+		"latitude" : 36.717,
+		"longitude" : 5.067,
+		"elevation" : 3
+	},
+	{
+		"stn" : 604190,
+		"name" : "CONSTANTINE",
+		"country" : "ALGERIA",
+		"latitude" : 36.283,
+		"longitude" : 6.617,
+		"elevation" : 694
+	},
+	{
+		"stn" : 604450,
+		"name" : "SETIF",
+		"country" : "ALGERIA",
+		"latitude" : 36.183,
+		"longitude" : 5.25,
+		"elevation" : 1040
+	},
+	{
+		"stn" : 604520,
+		"name" : "ARZEW",
+		"country" : "ALGERIA",
+		"latitude" : 35.817,
+		"longitude" : -0.267,
+		"elevation" : 4
+	},
+	{
+		"stn" : 604570,
+		"name" : "MOSTAGANEM",
+		"country" : "ALGERIA",
+		"latitude" : 35.883,
+		"longitude" : 0.117,
+		"elevation" : 138
+	},
+	{
+		"stn" : 604680,
+		"name" : "BATNA",
+		"country" : "ALGERIA",
+		"latitude" : 35.75,
+		"longitude" : 6.317,
+		"elevation" : 826
+	},
+	{
+		"stn" : 604750,
+		"name" : "TEBESSA",
+		"country" : "ALGERIA",
+		"latitude" : 35.417,
+		"longitude" : 8.117,
+		"elevation" : 823
+	},
+	{
+		"stn" : 604900,
+		"name" : "ORAN-SENIA",
+		"country" : "ALGERIA",
+		"latitude" : 35.633,
+		"longitude" : -0.6,
+		"elevation" : 91
+	},
+	{
+		"stn" : 604920,
+		"name" : "RELIZANE",
+		"country" : "ALGERIA",
+		"latitude" : 35.733,
+		"longitude" : 0.55,
+		"elevation" : 75
+	},
+	{
+		"stn" : 605070,
+		"name" : "MASCARA-GHRISS",
+		"country" : "ALGERIA",
+		"latitude" : 35.217,
+		"longitude" : 0.15,
+		"elevation" : 513
+	},
+	{
+		"stn" : 605110,
+		"name" : "TIARET",
+		"country" : "ALGERIA",
+		"latitude" : 35.35,
+		"longitude" : 1.467,
+		"elevation" : 978
+	},
+	{
+		"stn" : 605250,
+		"name" : "BISKRA",
+		"country" : "ALGERIA",
+		"latitude" : 34.8,
+		"longitude" : 5.733,
+		"elevation" : 89
+	},
+	{
+		"stn" : 605310,
+		"name" : "TLEMCEN-ZENATA",
+		"country" : "ALGERIA",
+		"latitude" : 35.017,
+		"longitude" : -1.467,
+		"elevation" : 247
+	},
+	{
+		"stn" : 605350,
+		"name" : "DJELFA",
+		"country" : "ALGERIA",
+		"latitude" : 34.333,
+		"longitude" : 3.383,
+		"elevation" : 1185
+	},
+	{
+		"stn" : 605360,
+		"name" : "SAIDA",
+		"country" : "ALGERIA",
+		"latitude" : 34.867,
+		"longitude" : 0.15,
+		"elevation" : 752
+	},
+	{
+		"stn" : 605450,
+		"name" : "LAGHOUAT",
+		"country" : "ALGERIA",
+		"latitude" : 33.767,
+		"longitude" : 2.933,
+		"elevation" : 763
+	},
+	{
+		"stn" : 605490,
+		"name" : "MECHERIA",
+		"country" : "ALGERIA",
+		"latitude" : 33.583,
+		"longitude" : -0.283,
+		"elevation" : 1150
+	},
+	{
+		"stn" : 605500,
+		"name" : "EL-BAYADH",
+		"country" : "ALGERIA",
+		"latitude" : 33.667,
+		"longitude" : 1,
+		"elevation" : 1347
+	},
+	{
+		"stn" : 605550,
+		"name" : "TOUGGOURT",
+		"country" : "ALGERIA",
+		"latitude" : 33.117,
+		"longitude" : 6.133,
+		"elevation" : 92
+	},
+	{
+		"stn" : 605590,
+		"name" : "EL-OUED",
+		"country" : "ALGERIA",
+		"latitude" : 33.5,
+		"longitude" : 6.783,
+		"elevation" : 69
+	},
+	{
+		"stn" : 605660,
+		"name" : "GHARDAIA",
+		"country" : "ALGERIA",
+		"latitude" : 32.4,
+		"longitude" : 3.8,
+		"elevation" : 469
+	},
+	{
+		"stn" : 605710,
+		"name" : "BECHAR",
+		"country" : "ALGERIA",
+		"latitude" : 31.5,
+		"longitude" : -2.25,
+		"elevation" : 816
+	},
+	{
+		"stn" : 605800,
+		"name" : "OUARGLA",
+		"country" : "ALGERIA",
+		"latitude" : 31.933,
+		"longitude" : 5.4,
+		"elevation" : 148
+	},
+	{
+		"stn" : 605900,
+		"name" : "EL-GOLEA",
+		"country" : "ALGERIA",
+		"latitude" : 30.567,
+		"longitude" : 2.867,
+		"elevation" : 403
+	},
+	{
+		"stn" : 606110,
+		"name" : "IN-AMENAS",
+		"country" : "ALGERIA",
+		"latitude" : 28.05,
+		"longitude" : 9.633,
+		"elevation" : 562
+	},
+	{
+		"stn" : 606400,
+		"name" : "ILLIZI",
+		"country" : "ALGERIA",
+		"latitude" : 26.5,
+		"longitude" : 8.417,
+		"elevation" : 544
+	},
+	{
+		"stn" : 606700,
+		"name" : "DJANET",
+		"country" : "ALGERIA",
+		"latitude" : 24.267,
+		"longitude" : 9.467,
+		"elevation" : 970
+	},
+	{
+		"stn" : 606800,
+		"name" : "TAMANRASSET",
+		"country" : "ALGERIA",
+		"latitude" : 22.8,
+		"longitude" : 5.433,
+		"elevation" : 1364
+	},
+	{
+		"stn" : 606805,
+		"name" : "TAMANRASSET",
+		"country" : "ALGERIA",
+		"latitude" : 22.8,
+		"longitude" : 5.45,
+		"elevation" : 1412
+	},
+	{
+		"stn" : 607100,
+		"name" : "TABARKA",
+		"country" : "TUNISIA",
+		"latitude" : 36.95,
+		"longitude" : 8.75,
+		"elevation" : 21
+	},
+	{
+		"stn" : 607140,
+		"name" : "BIZERTE",
+		"country" : "TUNISIA",
+		"latitude" : 37.25,
+		"longitude" : 9.8,
+		"elevation" : 3
+	},
+	{
+		"stn" : 607150,
+		"name" : "TUNIS-CARTHAGE",
+		"country" : "TUNISIA",
+		"latitude" : 36.833,
+		"longitude" : 10.233,
+		"elevation" : 4
+	},
+	{
+		"stn" : 607200,
+		"name" : "KELIBIA",
+		"country" : "TUNISIA",
+		"latitude" : 36.85,
+		"longitude" : 11.083,
+		"elevation" : 30
+	},
+	{
+		"stn" : 607250,
+		"name" : "JENDOUBA",
+		"country" : "TUNISIA",
+		"latitude" : 36.483,
+		"longitude" : 8.8,
+		"elevation" : 144
+	},
+	{
+		"stn" : 607280,
+		"name" : "NABEUL",
+		"country" : "TUNISIA",
+		"latitude" : 36.467,
+		"longitude" : 10.7,
+		"elevation" : 78
+	},
+	{
+		"stn" : 607340,
+		"name" : "SILIANA",
+		"country" : "TUNISIA",
+		"latitude" : 36.067,
+		"longitude" : 9.367,
+		"elevation" : 445
+	},
+	{
+		"stn" : 607350,
+		"name" : "KAIROUAN",
+		"country" : "TUNISIA",
+		"latitude" : 35.667,
+		"longitude" : 10.1,
+		"elevation" : 68
+	},
+	{
+		"stn" : 607380,
+		"name" : "THALA",
+		"country" : "TUNISIA",
+		"latitude" : 35.55,
+		"longitude" : 8.683,
+		"elevation" : 1092
+	},
+	{
+		"stn" : 607400,
+		"name" : "MONASTIR-SKANES",
+		"country" : "TUNISIA",
+		"latitude" : 35.667,
+		"longitude" : 10.75,
+		"elevation" : 3
+	},
+	{
+		"stn" : 607401,
+		"name" : "HABIB BOURGUIBA",
+		"country" : "TUNISIA",
+		"latitude" : 35.767,
+		"longitude" : 10.75,
+		"elevation" : 2
+	},
+	{
+		"stn" : 607403,
+		"name" : "HABIB BOURGUIBA INT",
+		"country" : "TUNISIA",
+		"latitude" : 35.75,
+		"longitude" : 10.75,
+		"elevation" : 3
+	},
+	{
+		"stn" : 607450,
+		"name" : "GAFSA",
+		"country" : "TUNISIA",
+		"latitude" : 34.417,
+		"longitude" : 8.817,
+		"elevation" : 314
+	},
+	{
+		"stn" : 607480,
+		"name" : "SIDI BOUZID",
+		"country" : "TUNISIA",
+		"latitude" : 35,
+		"longitude" : 9.483,
+		"elevation" : 355
+	},
+	{
+		"stn" : 607500,
+		"name" : "SFAX EL-MAOU",
+		"country" : "TUNISIA",
+		"latitude" : 34.717,
+		"longitude" : 10.683,
+		"elevation" : 23
+	},
+	{
+		"stn" : 607600,
+		"name" : "TOZEUR",
+		"country" : "TUNISIA",
+		"latitude" : 33.917,
+		"longitude" : 8.167,
+		"elevation" : 86
+	},
+	{
+		"stn" : 607650,
+		"name" : "GABES",
+		"country" : "TUNISIA",
+		"latitude" : 33.883,
+		"longitude" : 10.1,
+		"elevation" : 5
+	},
+	{
+		"stn" : 607690,
+		"name" : "DJERBA MELLITA",
+		"country" : "TUNISIA",
+		"latitude" : 33.867,
+		"longitude" : 10.767,
+		"elevation" : 4
+	},
+	{
+		"stn" : 607700,
+		"name" : "MEDENINE",
+		"country" : "TUNISIA",
+		"latitude" : 33.35,
+		"longitude" : 10.483,
+		"elevation" : 117
+	},
+	{
+		"stn" : 607750,
+		"name" : "REMADA",
+		"country" : "TUNISIA",
+		"latitude" : 32.317,
+		"longitude" : 10.4,
+		"elevation" : 301
+	},
+	{
+		"stn" : 620020,
+		"name" : "NALUT",
+		"country" : "LIBYA",
+		"latitude" : 31.867,
+		"longitude" : 10.983,
+		"elevation" : 621
+	},
+	{
+		"stn" : 620070,
+		"name" : "ZUARA",
+		"country" : "LIBYA",
+		"latitude" : 32.883,
+		"longitude" : 12.083,
+		"elevation" : 3
+	},
+	{
+		"stn" : 620100,
+		"name" : "TRIPOLI INTERNATION",
+		"country" : "LIBYA",
+		"latitude" : 32.7,
+		"longitude" : 13.083,
+		"elevation" : 63
+	},
+	{
+		"stn" : 620160,
+		"name" : "MISURATA",
+		"country" : "LIBYA",
+		"latitude" : 32.417,
+		"longitude" : 15.05,
+		"elevation" : 32
+	},
+	{
+		"stn" : 620190,
+		"name" : "SIRTE",
+		"country" : "LIBYA",
+		"latitude" : 31.2,
+		"longitude" : 16.583,
+		"elevation" : 14
+	},
+	{
+		"stn" : 620530,
+		"name" : "BENINA",
+		"country" : "LIBYA",
+		"latitude" : 32.1,
+		"longitude" : 20.267,
+		"elevation" : 132
+	},
+	{
+		"stn" : 620550,
+		"name" : "AGEDABIA",
+		"country" : "LIBYA",
+		"latitude" : 30.717,
+		"longitude" : 20.167,
+		"elevation" : 7
+	},
+	{
+		"stn" : 620560,
+		"name" : "SHAHAT",
+		"country" : "LIBYA",
+		"latitude" : 32.8,
+		"longitude" : 21.883,
+		"elevation" : 648
+	},
+	{
+		"stn" : 620590,
+		"name" : "DERNA",
+		"country" : "LIBYA",
+		"latitude" : 32.783,
+		"longitude" : 22.583,
+		"elevation" : 26
+	},
+	{
+		"stn" : 620630,
+		"name" : "JAML ABDEL NASSER",
+		"country" : "LIBYA",
+		"latitude" : 31.85,
+		"longitude" : 23.917,
+		"elevation" : 155
+	},
+	{
+		"stn" : 621310,
+		"name" : "HON",
+		"country" : "LIBYA",
+		"latitude" : 29.117,
+		"longitude" : 15.933,
+		"elevation" : 267
+	},
+	{
+		"stn" : 621610,
+		"name" : "JALO",
+		"country" : "LIBYA",
+		"latitude" : 29.033,
+		"longitude" : 21.567,
+		"elevation" : 60
+	},
+	{
+		"stn" : 621760,
+		"name" : "GIARABUB",
+		"country" : "LIBYA",
+		"latitude" : 29.75,
+		"longitude" : 24.533,
+		"elevation" : -1
+	},
+	{
+		"stn" : 623060,
+		"name" : "MERSA MATRUH",
+		"country" : "EGYPT",
+		"latitude" : 31.333,
+		"longitude" : 27.217,
+		"elevation" : 30
+	},
+	{
+		"stn" : 623090,
+		"name" : "DABAA",
+		"country" : "EGYPT",
+		"latitude" : 30.933,
+		"longitude" : 28.467,
+		"elevation" : 18
+	},
+	{
+		"stn" : 623180,
+		"name" : "ALEXANDRIA/NOUZHA",
+		"country" : "EGYPT",
+		"latitude" : 31.2,
+		"longitude" : 29.95,
+		"elevation" : 7
+	},
+	{
+		"stn" : 623250,
+		"name" : "BALTIM",
+		"country" : "EGYPT",
+		"latitude" : 31.55,
+		"longitude" : 31.1,
+		"elevation" : 2
+	},
+	{
+		"stn" : 623320,
+		"name" : "PORT SAID/EL GAMIL",
+		"country" : "EGYPT",
+		"latitude" : 31.283,
+		"longitude" : 32.232,
+		"elevation" : 6
+	},
+	{
+		"stn" : 623330,
+		"name" : "PORT SAID",
+		"country" : "EGYPT",
+		"latitude" : 31.267,
+		"longitude" : 32.299,
+		"elevation" : 6
+	},
+	{
+		"stn" : 623360,
+		"name" : "EL ARISH",
+		"country" : "EGYPT",
+		"latitude" : 31.083,
+		"longitude" : 33.817,
+		"elevation" : 32
+	},
+	{
+		"stn" : 623370,
+		"name" : "EL ARISH",
+		"country" : "EGYPT",
+		"latitude" : 31.083,
+		"longitude" : 33.817,
+		"elevation" : 32
+	},
+	{
+		"stn" : 623601,
+		"name" : "BORG EL ARAB INTL",
+		"country" : "EGYPT",
+		"latitude" : 30.917,
+		"longitude" : 29.683,
+		"elevation" : 56
+	},
+	{
+		"stn" : 623660,
+		"name" : "CAIRO AIRPORT",
+		"country" : "EGYPT",
+		"latitude" : 30.133,
+		"longitude" : 31.4,
+		"elevation" : 74
+	},
+	{
+		"stn" : 623662,
+		"name" : "ISMALIA",
+		"country" : "EGYPT",
+		"latitude" : 30.583,
+		"longitude" : 32.25,
+		"elevation" : 3
+	},
+	{
+		"stn" : 623680,
+		"name" : "DATSAV3 VIRT STATION (EGYPT)",
+		"country" : "EGYPT",
+		"latitude" : 27.283,
+		"longitude" : 33.733,
+		"elevation" : 0
+	},
+	{
+		"stn" : 624380,
+		"name" : "DATSAV3 VIRT STATION (EGYPT)",
+		"country" : "EGYPT",
+		"latitude" : 27.283,
+		"longitude" : 33.733,
+		"elevation" : 0
+	},
+	{
+		"stn" : 624400,
+		"name" : "ISMAILIA",
+		"country" : "EGYPT",
+		"latitude" : 30.6,
+		"longitude" : 32.25,
+		"elevation" : 13
+	},
+	{
+		"stn" : 624520,
+		"name" : "NEKHEL",
+		"country" : "EGYPT",
+		"latitude" : 29.917,
+		"longitude" : 33.733,
+		"elevation" : 403
+	},
+	{
+		"stn" : 691464,
+		"name" : "ADANA/INCIRLIK AB",
+		"country" : "TURKEY",
+		"latitude" : 37,
+		"longitude" : 35.433,
+		"elevation" : 73
+	},
+	{
+		"stn" : 889340,
+		"name" : "DATSAV3 VIRT STATION (ALGERIA)",
+		"country" : "ALGERIA",
+		"latitude" : 36.817,
+		"longitude" : 5.883,
+		"elevation" : 0
+	},
+	{
+		"stn" : 889380,
+		"name" : "DATSAV3 VIRT STATION (ALGERIA)",
+		"country" : "ALGERIA",
+		"latitude" : 36.817,
+		"longitude" : 5.883,
+		"elevation" : 0
+	},
+	{
+		"stn" : 889400,
+		"name" : "DATSAV3 VIRT STATION (ALGERIA)",
+		"country" : "ALGERIA",
+		"latitude" : 36.817,
+		"longitude" : 5.883,
+		"elevation" : 0
+	}
+]
